@@ -1,0 +1,28 @@
+canvas{
+    position: absolute;
+    left: 23%;
+    top: 20%;
+    border: 1px solid black;
+}
+
+h1{
+    position: absolute;
+    left: 37%;
+}
+
+button{
+    position: absolute;
+    top: 87%;
+    right: 26%;
+    border: 1px solid black;
+    background: grey;
+    color: honeydew;
+    transition: all 0.3s ease;
+}
+
+button:hover{
+    cursor: pointer;
+    background: white;
+    color: black;
+}
+
